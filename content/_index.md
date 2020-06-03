@@ -10,13 +10,6 @@ type: "home"
 #### Currently serving Massachusetts. More States coming very soon, so go ahead and participate!
   
   ANY AND ALL FEEDBACK, EMAIL [tim@turq.io](mailto:tim@turq.io)
-  
-#### Sponsors
-
-1. Select “Create New Competition!” below, to submit your idea for Citizen Legislation.
-2. Review legislation finalists.
-3. Payout prize funds the the winner.
-4. Turq submits the bill to the State House automatically.
 
 #### Drafters
 
