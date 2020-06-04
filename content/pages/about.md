@@ -1,7 +1,7 @@
 ---
 title: About
 menu: main
-weight: 3
+weight: 0
 aliases:
   /about/
 ---

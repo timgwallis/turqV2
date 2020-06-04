@@ -1,7 +1,7 @@
 ---
 title: Sponsor a Bill
 menu: main
-weight: 3
+weight: 20
 aliases:
   /sponsor/
 ---

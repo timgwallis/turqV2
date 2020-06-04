@@ -6,6 +6,7 @@ paginate = 6
 themesDir = "./themes"
 
 [params]
+  homeSubtitle="Legislation for the people, by the people"
   builtBy = "bool"
   defaultImage = "turq_logo.PNG"
   defaultImageInverse = "turq_logo_inverse.PNG"

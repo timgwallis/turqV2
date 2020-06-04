@@ -1,8 +1,6 @@
 ---
 title: Turq - Citizens Legislation
-menu: main
-url: /competitions
-weight: 6
+weight: 10
 ---
   
 #### Currently serving Massachusetts. More States coming very soon, so go ahead and participate!

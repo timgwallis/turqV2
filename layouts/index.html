@@ -40,7 +40,9 @@
 	{{- end }}
 	<div id="spotlight" class="animated fadeIn">
 		<div id="home-center">
-			<h1 id="home-title">{{ .Site.Title }}</h1>
+            <div id="title-center">
+                <a href="#"><img style="display: inline-block;" class="" width="250px"  src="{{ .Site.BaseURL }}images/{{ .Site.Params.defaultImageInverse }}" alt="{{ .Site.Title }}"></a>
+            </div>
 			{{- with .Site.Params.homeSubtitle }}
 			<p id="home-subtitle">{{.}}</p>
 			{{- end }}
