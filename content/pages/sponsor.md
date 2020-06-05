@@ -2,6 +2,7 @@
 title: Sponsor a Bill
 menu: main
 info: If you want some legislation made, become a Sponsor and fund a bill writing competition for others to draft your legislation for you.
+showCompetitions: true
 weight: 10
 aliases:
   /sponsor/

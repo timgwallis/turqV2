@@ -2,6 +2,7 @@
 title: About
 weight: 0
 info: Learn more about turq and our mission
+showCompetitions: false
 aliases:
   /about/
 ---
