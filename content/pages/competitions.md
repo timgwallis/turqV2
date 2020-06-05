@@ -1,5 +1,8 @@
 ---
 title: Competitions
+info: View all competitions and contribute to draft legislation
+menu: main
+url: /competition
 weight: 10
 ---
 #### Currently serving Massachusetts. More States coming very soon, so go ahead and participate!  

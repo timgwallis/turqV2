@@ -401,6 +401,43 @@ p.img-404 {
    justify-content: center;
 }
 
+.sub-menu-center {
+   display: flex;
+   visibility: visible;
+   flex-direction: row;
+   visibility: hidden;
+   justify-content: center;
+   font-style: italic;
+   font-size: .7em;
+   opacity: 0;
+   max-height: 0;
+   overflow: hidden;
+   transition: max-height 0.5s ease-out, visibility 0.5s, opacity 0.5s linear;
+}
+.sub-menu-center:hover {
+   display: flex;
+   visibility: visible;
+   flex-direction: row;
+   justify-content: center;
+   font-style: italic;
+   font-size: .7em;
+   opacity: .9;
+   max-height: 5em;
+   overflow:auto;
+}
+
+a:hover + .sub-menu-center {
+   display: flex;
+   visibility: visible;
+   flex-direction: row;
+   justify-content: center;
+   font-style: italic;
+   font-size: .7em;
+   opacity: .9;
+   max-height: 5em;
+   overflow:auto;
+   transition: max-height 1s, overflow 1s 1s;
+}
 
 #home-title {
   margin: 0;

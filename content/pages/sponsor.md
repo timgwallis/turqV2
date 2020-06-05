@@ -1,6 +1,7 @@
 ---
 title: Sponsor a Bill
 menu: main
+info: View all competitions and contribute to draft legislation
 weight: 20
 aliases:
   /sponsor/

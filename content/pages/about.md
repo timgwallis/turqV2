@@ -2,6 +2,7 @@
 title: About
 menu: main
 weight: 0
+info: Learn more about turq and our mission
 aliases:
   /about/
 ---

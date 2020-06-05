@@ -8,5 +8,10 @@
 				</span>
 			{{- else }}
 				<a href="{{ .URL | absLangURL }}">{{ .Name }}</a>
-			{{- end }}
+            {{- end }}
+                {{- with .Page -}}
+                    <div class="sub-menu-center" id="{{.Name}}-menu-expanded">
+                        {{- .Params.info -}}
+                    </div>
+                {{- end -}}
 		{{- end }}

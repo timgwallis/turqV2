@@ -24,12 +24,3 @@ themesDir = "./themes"
 
   analytics = ""
   disqus = ""
-
-[menu]
-    
-  [[menu.main]]
-    identifier = "competitions"
-    name = "competitions"
-    url = "/competition/"
-    weight = -100
-
