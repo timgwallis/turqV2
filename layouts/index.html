@@ -46,6 +46,9 @@
 			{{- with .Site.Params.homeSubtitle }}
 			<p id="home-subtitle">{{.}}</p>
 			{{- end }}
+			{{- with .Site.Params.siteDescription }}
+			<p id="site-description">{{.}}</p>
+			{{- end }}
 			{{- with .Site.Params.social }}
 			<div id="home-social">
 				{{ partialCached "social-icons.html" . }}

@@ -1,15 +1,10 @@
 ---
-title: Competitions
-info: View all competitions and contribute to draft legislation
+title: Draft a Bill
+info: If you want to help bring someone's legislative dreams into reality, become a Drafter and make some money along the way
 menu: main
 url: /competition
-weight: 10
+weight: 20
 ---
-#### Currently serving Massachusetts. More States coming very soon, so go ahead and participate!  
-
-If you want a legislative bill writen, you have limited options. Either write it yourself, or get an politcians to write it for you. But thousands of people are asking their politicians to write them legislation everyday, and writing it yourself can be intimidating.  
-
-Turq is citizens writing legislation for one another.  If you want some legislation made, become a Sponsor and fund a bill wirting competition. If you want to help bring someone's legislative dreams into reality, become a Drafter and make some money along the way.  
 
 #### Drafters
 
@@ -22,4 +17,4 @@ Turq is citizens writing legislation for one another.  If you want some legislat
 
 [Learn more about Turq](/about) and how to contribute to it.  
 
-ANY AND ALL FEEDBACK, EMAIL [tim@turq.io](mailto:tim@turq.io
+ANY AND ALL FEEDBACK, EMAIL [tim@turq.io](mailto:tim@turq.io)

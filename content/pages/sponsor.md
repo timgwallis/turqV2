@@ -1,11 +1,13 @@
 ---
 title: Sponsor a Bill
 menu: main
-info: View all competitions and contribute to draft legislation
-weight: 20
+info: If you want some legislation made, become a Sponsor and fund a bill writing competition for others to draft your legislation for you.
+weight: 10
 aliases:
   /sponsor/
 ---
+
+#### Currently serving Massachusetts. More States coming very soon, so go ahead and participate!  
 
 #### Sponsors
 

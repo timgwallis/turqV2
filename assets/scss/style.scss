@@ -444,11 +444,28 @@ a:hover + .sub-menu-center {
   text-align: center;
 }
 
+#site-description {
+  display: flex;
+  visibility: visible;
+  flex-direction: row;
+  justify-content: center;
+  margin: 0 auto;
+  width: 50%;
+  margin-top: 0;
+  margin-bottom: 1.5em;
+  text-align: center;
+  line-height: normal;
+  font-size: .7em;
+  font-style: italic;
+  opacity: .9;
+}
+
 #home-subtitle {
   margin-top: 0;
   margin-bottom: 1.5em;
   text-align: center;
   line-height: normal;
+  color: #40e0d0;
   font-size: .7em;
   font-style: italic;
   opacity: .9;
