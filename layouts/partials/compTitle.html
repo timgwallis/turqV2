@@ -2,6 +2,8 @@
   var target = document.getElementById('title-{{ .divId }}');
   var today = new Date();
   var compDate = new Date({{ .endDate }});
+  console.log(today)
+  console.log(compDate)
   title = ( compDate > today ) ? '{{ .title }}' : 'CLOSED - {{ .title }}';
   title = title.substring(0,{{ .trunc }});
   target.innerHTML = title;
