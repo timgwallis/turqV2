@@ -1,6 +1,6 @@
 ---
 title: Municipal Protective Services Reform
-endDate: Jun 19th 20
+endDate: 1579392000
 prizes: $100
 description: >-
   **Background**
